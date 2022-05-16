@@ -12,6 +12,6 @@ The algorithms analyzed are:
 
 Moreover, the performance of the deterministic and bayesian neaural network was also tested against adversarial attacks.
 
-Frameworks used:
+Frameworks:
 - Pyro
 - PyTorch
